@@ -11,7 +11,7 @@
 
 ## `> whoami`
 
-```text
+
 ╔══════════════════════════════════════════════════════╗
 ║ USER: Z10n                                           ║
 ║ STATUS: ONLINE                                       ║
@@ -87,4 +87,4 @@ OTHER        → Japanese · Scouts · Random shit
 <br> <div align="center">
 
 The elden lord
-</div> ```
+</div> 
