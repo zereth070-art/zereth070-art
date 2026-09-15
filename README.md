@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./assets/z10n-bios.gif" width="100%" alt="Z10n BIOS v2.0">
+<img src="./assets/AAdGk.gif" width="100%" alt="Z10n BIOS v2.0">
 
 <br><br>
 
