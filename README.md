@@ -189,3 +189,5 @@ Cada proyecto es otra pelea contra un boss distinto.
 </p>
 
 </div>
+
+https://grow.google/intl/es/google-career-certificates/ai-professional/?utm_source=google&utm_medium=hpp&utm_campaign=ai-professional-2026q3&utm_content=spain-spanish
