@@ -185,9 +185,8 @@ Cada proyecto es otra pelea contra un boss distinto.
 <div align="center">
 
 <p>
-<em>Every bug is just another boss fight.</em>
+<em>Teh elden lord.sh </em>
 </p>
 
 </div>
 
-https://grow.google/intl/es/google-career-certificates/ai-professional/?utm_source=google&utm_medium=hpp&utm_campaign=ai-professional-2026q3&utm_content=spain-spanish
