@@ -4,9 +4,6 @@
 </p>
 
 <br><br>
-
-<h1>Z10n</h1>
-
 <p>
   Estudiante de 2º DAW · Web Developer · Frikazo
 </p>
