@@ -1,16 +1,14 @@
-## Hi there 👋
+# Z10n
 
-<!--
-**zereth070-art/zereth070-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de 2º de Desarrollo de Aplicaciones Web y un frikazo.
 
-Here are some ideas to get you started:
+### Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5 + CSS
+- JavaScript
+- Node.js
+- React
+- Java + Spring
+- SQL
+- MongoDB
+- Python
