@@ -94,18 +94,6 @@ Aplicación web para gestionar sesiones de trabajo y descanso.
 
 <br>
 
-<h3>Task Finder</h3>
-
-<p>
-Buscador/gestor de tareas desarrollado como proyecto personal.
-</p>
-
-<p>
-<strong>Stack:</strong> JavaScript · HTML · CSS
-</p>
-
-<br>
-
 <h3>Coming soon...</h3>
 
 <pre>
