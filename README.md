@@ -1,4 +1,4 @@
-# Hola, soy Zereth 👋
+# Hola, soy Javier 👋
 
 Estudiante de **2º de Desarrollo de Aplicaciones Web (DAW)** en Alcalá de Henares.
 Aprendo desarrollo web de verdad: no solo hago que las cosas funcionen, sino que
@@ -64,9 +64,8 @@ MongoDB · Mongoose · PostgreSQL · Spring Boot · Thymeleaf · Docker · Git
 
 ## 📬 Contacto
 
-- **Correo:** `tu-correo@ejemplo.com`
+- **Correo:** `javiercaja83@gmail.com`
 - **GitHub:** [@zereth070-art](https://github.com/zereth070-art)
 
 ---
 
-> *Este README también es un ejercicio: mejorarlo es parte del aprendizaje.*
