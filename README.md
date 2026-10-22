@@ -6,7 +6,7 @@ trato de entender **por qué** funcionan y **cuándo no**.
 
 ---
 
-## 🛠️ Proyectos
+## 🛠️ Proyectos destacados
 
 ### [PomodoroZion](https://github.com/zereth070-art/pomodorozion) — Spring Boot + WebSocket
 
@@ -33,6 +33,18 @@ con Google OAuth 2.0**.
 - **Docker** · variables de entorno por perfil (nada de secretos en el código)
 
 🔗 [Ver código](https://github.com/zereth070-art/pccomponentes)
+
+---
+
+## 📂 Todos los repositorios
+
+| Repositorio | Contenido | Stack |
+| --- | --- | --- |
+| [apuntes-daw](https://github.com/zereth070-art/apuntes-daw) | Cuaderno de estudio: apuntes, ejercicios y prácticas por módulos | Java · JavaScript · Python |
+| [pomodorozion](https://github.com/zereth070-art/pomodorozion) | App Pomodoro full-stack con temporizador en tiempo real | Spring Boot · WebSocket · Docker |
+| [pccomponentes](https://github.com/zereth070-art/pccomponentes) | Tienda de componentes con OAuth y verificación por email | React · Express · MongoDB |
+| [DWES-01-2026-27](https://github.com/zereth070-art/DWES-01-2026-27) | Material y ejercicios de la asignatura DWES *(fork del material de clase)* | Java · Jakarta EE |
+| [back-end-development-and-apis](https://github.com/zereth070-art/back-end-development-and-apis) | Curso de back-end y APIs de freeCodeCamp *(fork)* | Node.js · Express |
 
 ---
 
