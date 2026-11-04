@@ -1,102 +1,83 @@
 
-<!-- HEADER -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=Javier%20de%20Humano&fontSize=42&fontColor=58A6FF&fontAlignY=38&desc=Web%20Developer%20%7C%20DAW%20Student&descAlignY=60&descSize=17" />
+# ⛓ JAVIER ⛓
 
-# Hola, soy Javier 👋
+** DESARROLLADOR WEB EN FORMACIÓN**
 
-### Desarrollador Web en formación · DAW
-
-Estudiante de **Desarrollo de Aplicaciones Web**, interesado en el desarrollo de software, las aplicaciones web y la creación de proyectos que me permitan seguir creciendo como desarrollador.
-
-[![GitHub](https://img.shields.io/badge/GitHub-zereth070--art-161B22?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/zereth070-art)
+*Nunca dejar las cosas a medias*
 
 </div>
 
 ---
 
-## `01` · Sobre mí
+## ☨ Sobre mi
 
-💻 Actualmente estoy cursando **Desarrollo de Aplicaciones Web (DAW)**.
+Estudiante de **Desarrollo de Aplicaciones Web (DAW)**.
 
-🚀 Me interesa tanto el desarrollo frontend como backend, actualmente todavía exploro en qué quiero especializarme.
+Interesado en el desarrollo de paginas web funcionales.
 
-📚 Utilizo mis proyectos académicos y personales para poner en práctica conocimientos, experimentar con tecnologías y mejorar mis habilidades.
-
-🎯 Mi objetivo es seguir evolucionando como desarrollador y construir aplicaciones y paginas web cada vez más completas y bien estructuradas.
+Aprendiendo, experimentando y construyendo proyectos para mejorar como desarrollador.
 
 ---
 
-## `02` · Stack tecnológico
+## ☩ ARSENAL
 
-### Backend
+**BACKEND**
+- Java
+- Spring
+- Node.js
+- Python · Basic
 
-<p>
-<img src="https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
-<img src="https://img.shields.io/badge/Spring-161B22?style=for-the-badge&logo=spring&logoColor=6DB33F" />
-<img src="https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
-<img src="https://img.shields.io/badge/Python%20(Basic)-161B22?style=for-the-badge&logo=python&logoColor=3776AB" />
-</p>
+**FRONTEND**
+- HTML5
+- Thymeleaf
+- React
 
-### Frontend
+**DATABASES**
+- MongoDB
+- SQL
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/Thymeleaf-161B22?style=for-the-badge&logo=thymeleaf&logoColor=005F0F" />
-<img src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-### Bases de datos
-
-<p>
-<img src="https://img.shields.io/badge/MongoDB-161B22?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/SQL-161B22?style=for-the-badge&logo=databricks&logoColor=4479A1" />
-</p>
-
-### Herramientas
-
-<p>
-<img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</p>
+**TOOLS**
+- Git
+- GitHub
 
 ---
 
-## `03` · Proyectos destacados
+## ☩ PROJECTS
 
-### 🖥️ PCComponentes Replica
+**PCComponentes Replica**
 
-Recreación de una tienda online inspirada en PCComponentes, desarrollada como proyecto académico.
+Recreación de una tienda online como proyecto académico.
 
-### 📚 MangaShelf
+**MangaShelf**
 
-Proyecto personal desarrollado para repasar, practicar y consolidar conocimientos de desarrollo web.
+Proyecto personal para practicar y consolidar conocimientos de desarrollo web.
 
-### 🏛️ Cita Previa Sede 2.0
+**Cita Previa Sede 2.0**
 
-Proyecto intermodular centrado en el diseño y desarrollo de interfaces web.
+Proyecto intermodular centrado en el diseño de interfaces web.
 
-### ☕ Spring Projects
+**Spring Projects**
 
-Colección de proyectos y prácticas desarrollados utilizando Java y el ecosistema Spring.
+Prácticas y proyectos desarrollados con Java y Spring.
 
 ---
 
-## `04` · Actualmente
+## ☩ CURRENTLY LEARNING
 
-- Profundizando en Java y Spring.
-- Mejorando mis habilidades de desarrollo frontend.
-- Trabajando con diferentes tecnologías y bases de datos.
-- Desarrollando proyectos personales y académicos.
-- Aprendiendo buenas prácticas y arquitectura de software.
+- Java & Spring
+- Desarrollo frontend
+- Bases de datos
+- Arquitectura y buenas prácticas de software
 
 ---
 
 <div align="center">
 
-###  No hay que dejar nada a medias.
+`NO SHORTCUTS. JUST CODE.`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=100&section=footer" />
+†
 
 </div>
