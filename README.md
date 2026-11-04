@@ -45,7 +45,7 @@ Aprendiendo, experimentando y construyendo proyectos para mejorar como desarroll
 
 ---
 
-## ☩ PROJECTS
+## ☩ PROYECTOS
 
 **PCComponentes Replica**
 
@@ -65,7 +65,7 @@ Prácticas y proyectos desarrollados con Java y Spring.
 
 ---
 
-## ☩ CURRENTLY LEARNING
+## ☩ APRENDIENDO ACTUALMENTE
 
 - Java & Spring
 - Desarrollo frontend
@@ -76,7 +76,7 @@ Prácticas y proyectos desarrollados con Java y Spring.
 
 <div align="center">
 
-`NO SHORTCUTS. JUST CODE.`
+`Cada día avanzando un poco.`
 
 †
 
