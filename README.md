@@ -47,21 +47,15 @@ Aprendiendo, experimentando y construyendo proyectos para mejorar como desarroll
 
 ## ☩ PROYECTOS
 
-**PCComponentes Replica**
+**[pccomponentes-replica](https://github.com/zereth070-art/pccomponentes-replica)** — Réplica de tienda online (React + Node/Express/MongoDB). Proyecto académico.
 
-Recreación de una tienda online como proyecto académico.
+**[mangashelf](https://github.com/zereth070-art/mangashelf)** — Aplicación personal para gestionar biblioteca de manga (React + Node/Express/MongoDB).
 
-**MangaShelf**
+**[cita-previa-sede2](https://github.com/zereth070-art/cita-previa-sede2)** — Proyecto intermodular: asistente de cita previa en atención primaria (Bootstrap 5).
 
-Proyecto personal para practicar y consolidar conocimientos de desarrollo web.
+**[productos-jdbc](https://github.com/zereth070-art/productos-jdbc)** — LogísticaApp con Spring Boot y JDBC (CRUD de productos y fabricantes).
 
-**Cita Previa Sede 2.0**
-
-Proyecto intermodular centrado en el diseño de interfaces web.
-
-**Spring Projects**
-
-Prácticas y proyectos desarrollados con Java y Spring.
+**[nexus-bootstrap-practice](https://github.com/zereth070-art/nexus-bootstrap-practice)** — Práctica de Bootstrap 5 personalizado con Sass.
 
 ---
 
